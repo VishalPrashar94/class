@@ -29,8 +29,6 @@
 1794821  simran "Life is great"
 1794716 Sai Kumar "Self-belief and hard work will always earn you success"
 
-
-
 1794404 "Test"
 
 1794147  Akashdeep  "Hard work is a key to success"
@@ -55,10 +53,14 @@
 
 
 1794976 Nutan "Don’t Let Yesterday Take Up Too Much Of Today."
+1794404 Aman "something is better than nothing"
+
+1794960 vijayender " Either way, I think we can all do with a bit more spark to help us perform miracles and live in joy."
 
 1795596 Jaya Ram "Be good Do good"
 
 1794404 Aman "something is better than nothing"
+
 
 
 
